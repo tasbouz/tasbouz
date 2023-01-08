@@ -10,9 +10,7 @@
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA)
 ![travisci](https://img.shields.io/static/v1?logo=travisci&label=&message=travisci&color=36465D&logoColor=AAA)
-![jenkins](https://img.shields.io/static/v1?logo=jenkins&label=&message=jenkins&color=36465D&logoColor=AAA)&nbsp;&nbsp;&nbsp;
-![googlecloud](https://img.shields.io/static/v1?logo=googlecloud&label=&message=googlecloud&color=36465D&logoColor=AAA)
-![amazonaws](https://img.shields.io/static/v1?logo=amazonaws&label=&message=amazonaws&color=36465D&logoColor=AAA)
+![jenkins](https://img.shields.io/static/v1?logo=jenkins&label=&message=jenkins&color=36465D&logoColor=AAA)
 
 ----
 
