@@ -15,7 +15,6 @@
 ----
 
 I am a machine learning engineer and data scientist with educational background in theoretical physics (MSc) and mathematics.
-
 Currently working as a Machine Learning Engineer II at Spotify.
 
 ----
